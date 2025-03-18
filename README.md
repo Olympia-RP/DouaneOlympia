@@ -6,7 +6,7 @@ Ce bot Discord est conçu pour automatiser certaines tâches de gestion des rôl
 
 - Node.js
 - npm
-
+ 
 ## Installation
 
 1. Clonez ce dépôt.
