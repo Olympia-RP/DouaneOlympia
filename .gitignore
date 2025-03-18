@@ -1,0 +1,8 @@
+.env
+blacklist.json
+node_modules
+npm-debug.log
+.npm
+.config
+.cache
+dist
